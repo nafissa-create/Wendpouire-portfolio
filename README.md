@@ -42,7 +42,8 @@ Repository:
 
 ### Algorithm for Humanitarian Assistance
 *Fundamentals of Computer Programming - Mini Project (September 2024)*
-Designed a written algorithm to ensure equitable distribution of food and non-food to displaced populations affected by armed conflicts.
+Designed a written algorithm to ensure equitable distribution of food and non-food to displaced populations affected by armed conflicts.  
+Repository: https://github.com/nafissa-create/Algorithm-for-Humanitarian-assistance.git
 
 
 
