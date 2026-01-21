@@ -1,4 +1,4 @@
-# data-science-portfolio - Wendpouire Nafissa Ouedraogo
+# Portfolio - Wendpouire Nafissa Ouedraogo
 
 # About Me
 
