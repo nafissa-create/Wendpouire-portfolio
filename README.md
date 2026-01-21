@@ -33,7 +33,7 @@ Repository: https://github.com/nafissa-create/OOP-Scientific-calculator.git
 ### Statistical Analysis of Body Fat Measurements  
 *Statistical Analysis with R – Group Project (January 2025)*  
 Conducted statistical analysis on body fat measurements using R and produced a detailed analytical report.  
-Repository: 
+Repository: https://github.com/nafissa-create/Analysis-of-body-fat-measurements.git
 
 ### Boston Housing Price Analysis
 *Principles od Data Science - Group Project (October 2024)* 
