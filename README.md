@@ -36,7 +36,7 @@ Conducted statistical analysis on body fat measurements using R and produced a d
 Repository: https://github.com/nafissa-create/Analysis-of-body-fat-measurements.git
 
 ### Boston Housing Price Analysis
-*Principles od Data Science - Group Project (October 2024)*  
+*Principles of Data Science - Group Project (October 2024)*  
 Explored and visualized the Boston Housing dataset, built a linear regression model and evaluated its performance using training and testing datasets.
 Repository: https://github.com/nafissa-create/Boston-Housing-Price-Analysis.git
 
